@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_membership_product_product_public,event.product.product.public,product.model_product_product,base.group_public,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:89dc23086cea2403a6e486ba24c4a97f97d383cbe32919bc9b3800fcef07470e
+size 203

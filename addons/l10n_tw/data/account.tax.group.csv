@@ -1,2 +1,3 @@
-id,name,country_id/id
-tax_group_gst_5,GST 5%,base.tw
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea439ab4b55cc90144dff9470e82084f3484f3c9cd0c409573d18bc9b39d41af
+size 55

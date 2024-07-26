@@ -1,1 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a0a1b6923f8828b99e32080867543e093e77942b685a3fa79c29cebb4e0392e
+size 78

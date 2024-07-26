@@ -1,5 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_event_meeting_room,event.meeting.room,model_event_meeting_room,,1,0,0,0
-access_event_meeting_room_user,event.meeting.room.user,model_event_meeting_room,event.group_event_user,1,1,1,1
-access_chat_room_registration,chat.room.registration,website_jitsi.model_chat_room,event.group_event_registration_desk,1,0,0,0
-access_chat_room_user,chat.room.user,website_jitsi.model_chat_room,event.group_event_user,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceb110a950cc9969a4a550cd12b1d7351769e409da48b9c44f3eccd24f7e6ca6
+size 497

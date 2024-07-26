@@ -1,5 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-challenge_officer,"Challenge Officer",gamification.model_gamification_challenge,hr.group_hr_user,1,1,1,1
-challenge_line_officer,"Challenge Line Officer",gamification.model_gamification_challenge_line,hr.group_hr_user,1,1,1,1
-badge_officer,"Badge Officer",gamification.model_gamification_badge,hr.group_hr_user,1,1,1,1
-badge_user_officer,"Badge-user Officer",gamification.model_gamification_badge_user,hr.group_hr_user,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b47407e5fe1ea0823c1965c0451ad2eae44f4fb616e568084a94d3f94f908a5
+size 508

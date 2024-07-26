@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_board_board_all,board.board,model_board_board,,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:acfdb16768b31517fb0b618f691ff0d7166f63822a4dc6cfadffd67ba958a9a6
+size 139

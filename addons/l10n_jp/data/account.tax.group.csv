@@ -1,4 +1,3 @@
-id,name,country_id/id
-tax_group_0,税対象外/免除,base.jp
-tax_group_8,8% 対象,base.jp
-tax_group_10,10% 対象,base.jp
+version https://git-lfs.github.com/spec/v1
+oid sha256:128e446bb56e8ef68affb0d661e3157f7aeffa3dc2309c84bf508e9f075d11ab
+size 128

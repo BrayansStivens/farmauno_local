@@ -1,2 +1,3 @@
-"id","model_id/id","name","active","perm_create","perm_unlink","perm_read","perm_write","domain_force"
-"own_tours","model_web_tour_tour","own tours","True","True","True","True","True","[('user_id','=', user.id)]"
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4401830c1892e85cb6406c1f8e2e2ac8611993b031b0d6ed1b46226e1a1211d
+size 215

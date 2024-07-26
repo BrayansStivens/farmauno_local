@@ -1,4 +1,3 @@
-id,name,country_id/id
-tax_group_0,DDV 0%,base.si
-tax_group_95,DDV 9.5%,base.si
-tax_group_22,DDV 22%,base.si
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e5a41c7a5dd24dd42df3091c17a0015ea4548068139ee3df2a870856bc339d7
+size 112

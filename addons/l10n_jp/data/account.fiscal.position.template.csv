@@ -1,5 +1,3 @@
-id,chart_template_id/id,name
-fiscal_position_tax_inclusive_template,l10n_jp1,内税
-fiscal_position_tax_exclusive_template,l10n_jp1,外税
-fiscal_position_tax_exempt_template,l10n_jp1,海外取引先
-fiscal_position_tax_reduction_template,l10n_jp1,軽減税率
+version https://git-lfs.github.com/spec/v1
+oid sha256:71a9ba9a425048fed67482cfb3b980e0f45eeb75d208ea5a229acff53beb2615
+size 266

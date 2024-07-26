@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_coupon_share,access_coupon_share,model_coupon_share,sales_team.group_sale_manager,1,1,1,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:957edcea3ece4ee76115734f488796faeb5692aa0c729c1a38d3e1be5e7dafd7
+size 176

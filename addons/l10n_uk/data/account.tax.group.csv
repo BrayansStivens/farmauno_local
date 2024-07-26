@@ -1,5 +1,3 @@
-id,name,country_id/id
-tax_group_0,TAX 0%,base.uk
-tax_group_5,TAX 5%,base.uk
-tax_group_175,TAX 17.5%,base.uk
-tax_group_20,TAX 20%,base.uk
+version https://git-lfs.github.com/spec/v1
+oid sha256:86320c0f29151cfea5a56f4713e351361f84db242dcf7644a003ec323b85485f
+size 142

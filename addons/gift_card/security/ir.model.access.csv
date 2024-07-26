@@ -1,2 +1,3 @@
-id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
-access_gift_card_all,Gift Card Program All,model_gift_card,,0,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd7bdd276616fcc355118cfe101cf12fb219f4f01e39abd1c160f1f064fce0fc
+size 147

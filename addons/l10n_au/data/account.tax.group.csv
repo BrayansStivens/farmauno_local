@@ -1,4 +1,3 @@
-id,name,country_id/id
-tax_group_gst_0,GST 0%,base.au
-tax_group_gst_10,GST 10%,base.au
-tax_group_gst_100000000,GST 100000000%,base.au
+version https://git-lfs.github.com/spec/v1
+oid sha256:abcf844f01d29f9a86e6c64dfb11c567d9c94cde7106129298ec041e6cd56729
+size 137

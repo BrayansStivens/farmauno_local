@@ -1,2 +1,3 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-"access_base_import_module","access.base.import.module","model_base_import_module","base.group_system",1,1,1,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:53a8b34a3924a5352bca5f0a027c745cc43a32a0d3268d5c05f879e3979cc22d
+size 206

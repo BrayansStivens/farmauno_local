@@ -1,2 +1,3 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-access_test_limits_model,access_test_limits_model,model_test_limits_model,,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2757fa9d5705a96af60136a694534c17ae5ac8bd23688c37a0a38b00623d177
+size 178

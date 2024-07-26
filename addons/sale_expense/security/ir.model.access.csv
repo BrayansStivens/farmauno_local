@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_sale_order_employee,sale.order.employee.expense,sale.model_sale_order,base.group_user,0,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5efde993ee96ee281087ce8aa03e8864823b7cd97e1486fbb9a8e22971db0ca
+size 178

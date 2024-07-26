@@ -1,5 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_event_crm_registration,event.lead.rule.user,model_event_lead_rule,event.group_event_registration_desk,1,0,0,0
-access_event_crm_user,event.lead.rule.user,model_event_lead_rule,event.group_event_user,1,0,0,0
-access_event_crm_manager,event.lead.rule.manager,model_event_lead_rule,event.group_event_manager,1,1,1,1
-access_event_crm_salesman,event.lead.rule.salesman,model_event_lead_rule,sales_team.group_sale_salesman,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e31a31d609de6e7aaff1e1373c313a0dfbdfcfbb016751da2e340daffe025be
+size 512

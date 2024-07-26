@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_snailmail_confirm_invoice,access_snailmail_confirm_invoice,model_snailmail_confirm_invoice,account.group_account_invoice,1,1,1,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:7031d7bd40c3f6b62f063b8fcc502f144acfa481457886572d1f3748512e4e4c
+size 215

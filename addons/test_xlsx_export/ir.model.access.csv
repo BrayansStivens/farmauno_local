@@ -1,4 +1,3 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-access_export_group_operator,access_export_group_operator,model_export_group_operator,,1,1,1,1
-access_export_group_operator_one2many,access_export_group_operator_one2many,model_export_group_operator_one2many,,1,1,1,1
-access_export_integer,access_export_integer,model_export_integer,,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4a073824e96d51749e55c0c01000d2de998a9bc1987b62899d88dd1da9369a9
+size 388

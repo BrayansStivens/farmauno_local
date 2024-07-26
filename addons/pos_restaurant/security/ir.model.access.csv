@@ -1,7 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_restaurant_printer,restaurant.printer.user,model_restaurant_printer,point_of_sale.group_pos_user,1,0,0,0
-access_restaurant_printer_manager,restaurant.printer.manager,model_restaurant_printer,point_of_sale.group_pos_manager,1,1,1,1
-access_restaurant_floor,restaurant.floor.user,model_restaurant_floor,point_of_sale.group_pos_user,1,0,0,0
-access_restaurant_floor_manager,restaurant.floor.manager,model_restaurant_floor,point_of_sale.group_pos_manager,1,1,1,1
-access_restaurant_table,restaurant.table.user,model_restaurant_table,point_of_sale.group_pos_user,1,0,0,0
-access_restaurant_table_manager,restaurant.table.manager,model_restaurant_table,point_of_sale.group_pos_manager,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:50abaaaa69c8f6a95ec1edf96c3b7e33ff6a18049779e78764128ab5e5775190
+size 774

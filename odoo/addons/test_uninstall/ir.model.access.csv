@@ -1,2 +1,3 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-access_test_uninstall_model,access_test_uninstall_model,model_test_uninstall_model,,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:245160731db19fba41d2079c55ddffbb91b644fe48fef419652b2d29e8126c1d
+size 187

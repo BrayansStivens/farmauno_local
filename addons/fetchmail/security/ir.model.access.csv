@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_fetchmail_server,fetchmail.server,model_fetchmail_server,base.group_system,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:55665681c24e6e501da488255a03edffaeca8f8fa14609f25febb202ae7b206d
+size 169

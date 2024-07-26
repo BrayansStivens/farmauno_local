@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_base_geo_provider,access_base_geo_provider,model_base_geo_provider,base.group_user,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:69d2ac491f7631b2c1b37a77d579bc95e84b0f13dcd329ee029406c4ed8edc56
+size 177

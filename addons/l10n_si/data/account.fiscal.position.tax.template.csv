@@ -1,10 +1,3 @@
-"id","position_id/id","tax_src_id/id","tax_dest_id/id"
-"gd_fp_eu_tax1","gd_fp_eu","gd_taxp_3","gd_taxp_st_2"
-"gd_fp_eu_tax2","gd_fp_eu","gd_taxp_2","gd_taxp_st_1"
-"gd_fp_eu_tax3","gd_fp_eu","gd_taxr_3","gd_taxr_1"
-"gd_fp_eu_tax4","gd_fp_eu","gd_taxr_2","gd_taxr_1"
-"gd_fp_ne_tax1","gd_fp_ne","gd_taxp_3","gd_taxp_1"
-"gd_fp_ne_tax2","gd_fp_ne","gd_taxp_2","gd_taxp_1"
-"gd_fp_ne_tax3","gd_fp_ne","gd_taxr_3","gd_taxr_1"
-"gd_fp_ne_tax4","gd_fp_ne","gd_taxr_2","gd_taxr_1"
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f06924cec0d29ffb7ab19f0052bfa7e11e0226d54529eba6d2f5bfa4004b91b
+size 480

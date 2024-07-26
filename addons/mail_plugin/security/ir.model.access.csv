@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-mail_plugin.access_res_partner_iap,access_res_partner_iap,mail_plugin.model_res_partner_iap,base.group_system,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:66b09a25ac4ae70ceef3d585b9285af8341901ca361a7406a433abb1d479eab7
+size 197

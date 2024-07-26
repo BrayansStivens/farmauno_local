@@ -1,4 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-google_calendar_account_reset,google_calendar_account_reset_access_right,model_google_calendar_account_reset,base.group_system,1,1,1,0
-google_calendar.access_google_calendar_credentials,access_google_calendar_credentials,google_calendar.model_google_calendar_credentials,base.group_user,1,0,0,0
-google_calendar_manager,access_google_calendar_credentials_manager,google_calendar.model_google_calendar_credentials,base.group_system,1,1,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b6096d09880417689d6c25a99804aa524f7e0374be9a39ee377b265d9aeadbf
+size 519

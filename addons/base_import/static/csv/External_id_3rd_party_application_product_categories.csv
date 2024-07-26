@@ -1,6 +1,3 @@
-External ID,Name,Parent Category/External ID
-a1,Expenses,product.product_category_all
-a2,Other Products,product.product_category_all
-a3,Sellable Products,product.product_category_all
-a4,Tables,a1
-a5,Seating furniture,a2
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0b67a5ea0b9d28bbaa355924ba36b508bc09fd880e0162e2469e70f158e5a69
+size 226

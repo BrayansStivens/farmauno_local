@@ -1,2 +1,3 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-access_test_exceptions_model,access_test_exceptions_model,model_test_exceptions_model,,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ddb585c442e75df192c646643588522670e06a99c611d8d60c15ea86abdfd41
+size 190

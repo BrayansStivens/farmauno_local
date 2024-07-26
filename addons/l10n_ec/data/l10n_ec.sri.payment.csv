@@ -1,9 +1,3 @@
-id,code,name
-P1,01,Sin utilización del sistema financiero
-P15,15,Compensación de Deudas
-P16,16,Tarjeta de Débito
-P17,17,Dinero Electrónico
-P18,18,Tarjeta de Prepago
-P19,19,Tarjeta de Crédito
-P20,20,Otros con utilización del sistema financiero
-P21,21,Endoso de Títulos
+version https://git-lfs.github.com/spec/v1
+oid sha256:59c7ee8e3af53945181f88075bb483bd943753148f45d83e54c8ff78ce899c83
+size 284
