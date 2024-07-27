@@ -1,6 +1,3 @@
-Claro, aquí tienes la documentación actualizada con la información adicional sobre el puerto y las credenciales por defecto:
-
----
 
 ### Instalación de Odoo 15
 
