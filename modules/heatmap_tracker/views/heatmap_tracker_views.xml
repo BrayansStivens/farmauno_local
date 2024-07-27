@@ -1,0 +1,79 @@
+<!-- modules\heatmap_tracker\views\heatmap_tracker_views.xml -->
+
+<odoo>
+    <!-- Tree View for Heatmap Tracker -->
+    <record id="view_heatmap_tracker_tree" model="ir.ui.view">
+        <field name="name">heatmap.tracker.tree</field>
+        <field name="model">heatmap.tracker</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="user_agent"/>
+                <field name="click_counts" string="Total Clicks"/>
+                <field name="ip_address"/>
+                <field name="location"/>
+                <field name="device_type"/>
+            </tree>
+        </field>
+    </record>
+
+    <!-- Form View for Heatmap Tracker -->
+    <record id="view_heatmap_tracker_form" model="ir.ui.view">
+        <field name="name">heatmap.tracker.form</field>
+        <field name="model">heatmap.tracker</field>
+        <field name="arch" type="xml">
+            <form>
+                <group>
+                    <field name="user_agent"/>
+                    <field name="click_counts" string="Total Clicks"/>
+                    <field name="ip_address"/>
+                    <field name="location"/>
+                    <field name="device_type"/>
+                </group>
+                <notebook>
+                    <page string="Interactions">
+                        <field name="interaction_ids">
+                            <tree>
+                                <field name="url"/>
+                                <field name="page_name"/>
+                                <field name="click_counts" string="Page Clicks"/>
+                                <field name="hovered_elements"/>
+                                <field name="time_spent_on_page"/>
+                                <field name="time_spent_on_elements"/>
+                                <field name="click_elements"/>
+                            </tree>
+                        </field>
+                    </page>
+                </notebook>
+            </form>
+        </field>
+    </record>
+
+    <!-- Tree View for Heatmap Interaction -->
+    <record id="view_heatmap_interaction_tree" model="ir.ui.view">
+        <field name="name">heatmap.interaction.tree</field>
+        <field name="model">heatmap.interaction</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="url"/>
+                <field name="page_name"/>
+                <field name="click_counts" string="Page Clicks"/>
+                <field name="hovered_elements"/>
+                <field name="time_spent_on_page"/>
+                <field name="time_spent_on_elements"/>
+                <field name="click_elements"/>
+            </tree>
+        </field>
+    </record>
+
+    <!-- Action for Heatmap Tracker -->
+    <record id="action_heatmap_tracker" model="ir.actions.act_window">
+        <field name="name">Heatmap Tracker</field>
+        <field name="res_model">heatmap.tracker</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- Menu Items -->
+    <menuitem id="menu_heatmap_tracker" name="Heatmap Tracker" sequence="1"/>
+    <menuitem id="menu_heatmap_tracker_data" name="Data" parent="menu_heatmap_tracker" action="action_heatmap_tracker"/>
+</odoo>
+

@@ -1,0 +1,60 @@
+<odoo>
+  <data>
+    <!-- explicit list view definition -->
+<!--
+    <record model="ir.ui.view" id="heatmap_tracker.list">
+      <field name="name">heatmap_tracker list</field>
+      <field name="model">heatmap_tracker.heatmap_tracker</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="value"/>
+          <field name="value2"/>
+        </tree>
+      </field>
+    </record>
+-->
+
+    <!-- actions opening views on models -->
+<!--
+    <record model="ir.actions.act_window" id="heatmap_tracker.action_window">
+      <field name="name">heatmap_tracker window</field>
+      <field name="res_model">heatmap_tracker.heatmap_tracker</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+-->
+
+    <!-- server action to the one above -->
+<!--
+    <record model="ir.actions.server" id="heatmap_tracker.action_server">
+      <field name="name">heatmap_tracker server</field>
+      <field name="model_id" ref="model_heatmap_tracker_heatmap_tracker"/>
+      <field name="state">code</field>
+      <field name="code">
+        action = {
+          "type": "ir.actions.act_window",
+          "view_mode": "tree,form",
+          "res_model": model._name,
+        }
+      </field>
+    </record>
+-->
+
+    <!-- Top menu item -->
+<!--
+    <menuitem name="heatmap_tracker" id="heatmap_tracker.menu_root"/>
+-->
+    <!-- menu categories -->
+<!--
+    <menuitem name="Menu 1" id="heatmap_tracker.menu_1" parent="heatmap_tracker.menu_root"/>
+    <menuitem name="Menu 2" id="heatmap_tracker.menu_2" parent="heatmap_tracker.menu_root"/>
+-->
+    <!-- actions -->
+<!--
+    <menuitem name="List" id="heatmap_tracker.menu_1_list" parent="heatmap_tracker.menu_1"
+              action="heatmap_tracker.action_window"/>
+    <menuitem name="Server to list" id="heatmap_tracker" parent="heatmap_tracker.menu_2"
+              action="heatmap_tracker.action_server"/>
+-->
+  </data>
+</odoo>
